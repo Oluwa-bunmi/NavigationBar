@@ -1,1 +1,1 @@
-A responsive navigation bar without the use of javascript.
+Toggle on navigation bar without the use of javascript.
